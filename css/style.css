@@ -110,7 +110,7 @@
         /* Animation controller */
         
 		/* Set your background with this */
-		background: #348cb2 url("http://ppcdn.500px.org/52866292/9e944f286e9ba110135839dca1aff8a18e18ffe8/2048.jpg") right center;
+		background: #348cb2 url("http://ppcdn.500px.org/52866292/9e944f286e9ba110135839dca1aff8a18e18ffe8/2048.jpg") no-repeat center center fixed;
         
 /*
         background: #348cb2 url("images/cool_tumbler_background.jpg") center center;
